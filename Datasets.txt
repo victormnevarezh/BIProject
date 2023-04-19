@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/khaiid/most-selling-pc-games
+
+https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
+
+https://www.kaggle.com/datasets/stetsondone/video-game-sales-by-genre
